@@ -79,6 +79,8 @@ A Streamlit app that lets users explore monthly crash density across NYC ZIP cod
 ### Prerequisites
 The app reads `monthly_crashes_gdf.geojson`, which is produced by running `Crashes_EDA.ipynb` from start to finish.
 
+<img width="1168" height="642" alt="image" src="https://github.com/user-attachments/assets/c5fee13f-b7a2-4e75-87b5-afed7e296381" />
+
 ---
 
 ## Setup & Installation
